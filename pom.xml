@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>it.develhope</groupId>
 	<artifactId>Deploy01</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>Deploy01</name>
 	<description>Exercise</description>
 	<properties>

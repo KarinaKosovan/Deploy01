@@ -1,4 +1,4 @@
+spring:
+ devName: "Karina Alejandra Kosovan"
 server:
   port: 7070
-  
-devName: Karina Alejandra Kosovan
